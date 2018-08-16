@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name"> Order Coffee</string>
+    <string name="TOPPINGS">TOPPINGS</string>
+    <string name="Whipped_Cream">   Whipped Cream</string>
+    <string name="choocolate">  choocolate</string>
+    <string name="QUANTITY">QUANTITY</string>
+    <string name="ORDER_SUMMARY">ORDER SUMMARY</string>
+    <string name="ORDER">ORDER</string>
+</resources>

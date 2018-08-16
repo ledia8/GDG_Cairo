@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent1">#FF4081</color>
+    <color name="kashmer">#F5B7B1</color>
+    <color name="colorAccent">#D98880</color>
+    <color name="Brown">#7B241C</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
